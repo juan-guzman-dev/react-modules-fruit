@@ -31,7 +31,7 @@ This file should import the fruits and both array helpers. It should then:
 
 ## Testing This
 Run this with `npm start` and you should see something like this in your browser console:  
-`I'd like one 🍉, please. 
-Here you go: 🍉. 
+I'd like one 🍉, please.  
+Here you go: 🍉.  
 Delicious! May I have another?  
-I'm sorry, we're all out. We have 14 left.`
+I'm sorry, we're all out. We have 14 left.
